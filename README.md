@@ -1,4 +1,4 @@
-# Mean-Variance-Opt-with-ESG-scores
+# Mean-Variance-Optimization-with-ESG-scores
 
 The project implements a **Mean-Variance Optimization** model to construct an **ESG-optimized portfolio**, while considering both financial returns and ESG (Environmental, Social, Governance) scores as constraints. The primary projection centers around identifying an optimal portfolio that balances traditional return metrics with sustainability performance.
 
